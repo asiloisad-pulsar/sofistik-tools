@@ -2,6 +2,9 @@
 
 Commands and integrations for SOFiSTiK structural analysis workflow.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [sofistik-tools](https://github.com/lumine-code/sofistik-tools).
+
 ## Features
 
 - **Help system**: Open PDF manuals in [pdf-viewer](https://github.com/asiloisad-pulsar/pdf-viewer).
